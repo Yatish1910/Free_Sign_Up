@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Free Sign Up</string>
+
+    <!-- TextFieldHint -->
+    <string name="hint_name">Username</string>
+    <string name="hint_password">Yatish@123</string>
+    <string name="hint_email">xyz@gmail.com</string>
+
+    <!--TextFieldHeading -->
+    <string name="username_heading">Name</string>
+    <string name="password_heading">Password</string>
+    <string name="email_heading">Email</string>
+
+    <!--ButtonText -->
+    <string name="verify">Verify</string>
+
+    <!--mainHeading -->
+    <string name="sign_up">Sign up</string>
+    <string name="welcome_user">Welcome User!</string>
+</resources>
